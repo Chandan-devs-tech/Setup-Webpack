@@ -16,7 +16,7 @@
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  - [Install](#install)
+  - [SetUp](#Set up project with webpack)
   - [Run tests](#run-tests)
   - [Deployment](#deployment)
 - [👥 Authors](#authors)
@@ -64,9 +64,9 @@ Set up project with webpack to bundle JavaScript.
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-### Install
+### Set up project with webpack
 
-Install this project with these cmd:
+Install these cmd:
 
 - npm init -y
 - npm install --save-dev webpack webpack-cli   
