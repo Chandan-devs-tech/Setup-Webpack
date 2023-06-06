@@ -66,7 +66,7 @@ Set up project with webpack to bundle JavaScript.
 
 ### Install
 
-Install this project with:
+Install this project with these cmd:
 
 - npm init -y
 - npm install --save-dev webpack webpack-cli   
@@ -132,6 +132,6 @@ I would like to thank [MICROVERSE](https://www.microverse.org/)
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT]() licensed.
+This project is [MIT](https://github.com/Chandan-devs-tech/Setup-Webpack/blob/setupWebpack/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
