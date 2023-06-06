@@ -13,13 +13,13 @@
     "type": "git",
     "url": "git+https://github.com/Chandan-devs-tech/Setup-Webpack.git"
   },
+  "homepage": "https://Chandan-devs-tech.github.io/Setup-Webpack",
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Chandan-devs-tech/Setup-Webpack/issues"
   },
-  "homepage": "https://Chandan-devs-tech.github.io/Setup-Webpack",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.8.1",
