@@ -16,7 +16,7 @@
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  - [SetUp](#Set up project with webpack)
+  - [SetUp](#Set-up-project-with-webpack)
   - [Run tests](#run-tests)
   - [Deployment](#deployment)
 - [👥 Authors](#authors)
