@@ -6,7 +6,8 @@
   "scripts": {
     "start": "webpack serve --open",
     "watch": "webpack --watch",
-    "build": "webpack"
+    "build": "webpack",
+    "deploy":"gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -18,13 +19,14 @@
   "bugs": {
     "url": "https://github.com/Chandan-devs-tech/Setup-Webpack/issues"
   },
-  "homepage": "https://github.com/Chandan-devs-tech/Setup-Webpack#readme",
+  "homepage": "https://Chandan-devs-tech.github.io/Setup-Webpack",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.8.1",
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.27.5",
+    "gh-pages": "^5.0.0",
     "hint": "^7.1.8",
     "html-webpack-plugin": "^5.5.1",
     "style-loader": "^3.3.3",
